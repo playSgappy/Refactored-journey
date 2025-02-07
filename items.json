@@ -1,0 +1,20 @@
+{
+    "apple": {
+        "name": "Apple",
+        "image": "textures/apple.png",
+        "stackable": true,
+        "spawn_probability": 0.01
+    },
+    "wood": {
+        "name": "Wood",
+        "image": "textures/wood.png",
+        "stackable": true,
+        "spawn_probability": 0.001
+    },
+    "sword": {
+        "name": "Sword", 
+        "image": "textures/sword.png",
+        "stackable": false,
+        "spawn_probability": 0.001
+    }
+}
